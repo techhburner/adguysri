@@ -144,9 +144,9 @@ export default function AdguySriSite() {
             </a>
           </div>
           <div className="stats">
-            <div><strong>50+ </strong>Campaigns Launched</div>
-            <div><strong>3–5x</strong> Typical ROAS</div>
-            <div><strong>100ms</strong> Core Web Vitals-minded builds</div>
+            <div><strong>10+ </strong>Campaigns Launched</div>
+            <div><strong>3–5x</strong> Sales Boost</div>
+            <div><strong> </strong> Beautiful Landing Pages built Over Night</div>
           </div>
         </div>
       </section>
@@ -178,9 +178,9 @@ export default function AdguySriSite() {
           <p className="muted">A quick peek — full case studies on request.</p>
           <div className="grid work">
             {[
-              { t: "D2C Skincare", d: "3.4x ROAS in 60 days with creative testing + PMax." },
+              { t: "Tesla Mock Campaigns", d: "Ran Campaign and also analyzed How thee campaign is running" },
               { t: "B2B SaaS", d: "LinkedIn + Search combo drove 120 qualified demos." },
-              { t: "EdTech", d: "Landing page rebuild lifted CVR by 41%." },
+              { t: "EdTech", d: "Landing page rebuild lifted Conversions by 41%." },
             ].map((w) => (
               <div className="card" key={w.t}>
                 <div className="badge">Case Study</div>
